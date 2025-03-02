@@ -106,5 +106,5 @@ __Description__: This command fetches the Spanish transcript of the specified vi
 ### Privacy and Respecting YouTube's Terms of Service
 - __Description__: Ensure that you have the right to access and use the transcripts, especially for copyrighted content. Always respect YouTube's Terms of Service when accessing and using their data.
 ## Contributions
-__Feel free to contribute!__ If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+__Feel free to contribute!__ If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Thanks!
 
